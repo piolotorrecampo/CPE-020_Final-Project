@@ -1,0 +1,21 @@
+pip==22.3.1
+setuptools==65.5.1
+wheel==0.38.4
+
+# main imports
+opencv-python
+numpy
+torch
+
+# prerequisites of the "main imports"
+pandas
+requests
+pillow
+psutil
+torchvision
+pyyaml
+tqdm
+matplotlib
+seaborn
+timm
+openpyxl
